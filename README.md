@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3500&pause=1000&color=F9DC5C&center=true&vCenter=true&width=600&lines=✨+Designer+dengan+skill+B+aja" alt="Pixel Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3500&pause=1000&color=F9DC5C&center=true&vCenter=true&width=600&lines=✨+Seniman+muda" alt="Pixel Typing SVG" />
 </p>
 
 
 
 
 ## 💫 About Me  
-Hi, I'm Erick 👋  
+Hola, I'm Erick 👋  
+
 
 
 ## 💼 What I Do  
