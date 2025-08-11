@@ -6,8 +6,8 @@
 
 
 ## 💫 About Me  
-Hi, I'm Fatan 👋  
-aka **The Copy Boy** — I turn clarity into code and pixels into experiences.
+Hi, I'm Erick 👋  
+
 
 ## 💼 What I Do  
 - 🧠 *Aspiring UI/UX Designer* — Learning the craft of intuitive design  
